@@ -1,0 +1,13 @@
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\Main.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\model\HistoryEntry.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\model\TranscriptionRequest.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\model\TranscriptionResult.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\repository\HistoryRepository.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\repository\JsonHistoryRepository.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\service\AudioConverterService.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\service\EnvironmentService.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\service\TranscriptFileService.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\service\TranscriptionService.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\service\VoskRecognitionService.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\ui\AudioOggTranscriberFrame.java
+D:\OneDrive\Documentos\NetBeansProjects\AudioOggTranscriberApp\src\main\java\br\techservice\audiooggtranscriberapp\util\DurationUtils.java

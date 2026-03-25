@@ -1,0 +1,15 @@
+br\techservice\audiooggtranscriberapp\model\TranscriptionResult.class
+br\techservice\audiooggtranscriberapp\service\EnvironmentService.class
+br\techservice\audiooggtranscriberapp\service\AudioConverterService.class
+br\techservice\audiooggtranscriberapp\util\DurationUtils.class
+br\techservice\audiooggtranscriberapp\repository\JsonHistoryRepository$1.class
+br\techservice\audiooggtranscriberapp\service\TranscriptFileService.class
+br\techservice\audiooggtranscriberapp\service\TranscriptionService.class
+br\techservice\audiooggtranscriberapp\model\TranscriptionRequest.class
+br\techservice\audiooggtranscriberapp\Main.class
+br\techservice\audiooggtranscriberapp\repository\JsonHistoryRepository.class
+br\techservice\audiooggtranscriberapp\model\HistoryEntry.class
+br\techservice\audiooggtranscriberapp\repository\HistoryRepository.class
+br\techservice\audiooggtranscriberapp\ui\AudioOggTranscriberFrame$1.class
+br\techservice\audiooggtranscriberapp\service\VoskRecognitionService.class
+br\techservice\audiooggtranscriberapp\ui\AudioOggTranscriberFrame.class
